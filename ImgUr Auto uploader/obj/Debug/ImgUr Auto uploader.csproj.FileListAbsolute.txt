@@ -1,0 +1,24 @@
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe.config
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\obj\Debug\ImgUr Auto uploader.csprojResolveAssemblyReference.cache
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.Properties.Resources.resources
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\obj\Debug\ImgUr Auto uploader.csproj.GenerateResource.Cache
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe.manifest
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.application
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.pdb
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.exe.manifest
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.application
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.exe
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.pdb
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe.config
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.exe
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.pdb
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgUr Auto uploader.csprojResolveAssemblyReference.cache
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.Properties.Resources.resources
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgUr Auto uploader.csproj.GenerateResource.Cache
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe.manifest
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.application
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.pdb
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.exe.manifest
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.application

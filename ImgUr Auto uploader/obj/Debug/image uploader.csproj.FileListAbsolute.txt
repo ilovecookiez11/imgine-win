@@ -1,0 +1,32 @@
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe.config
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.exe
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.pdb
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\image uploader.csprojResolveAssemblyReference.cache
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.Properties.Resources.resources
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\image uploader.csproj.GenerateResource.Cache
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe.manifest
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.application
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.exe
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurAutoUploader.pdb
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.exe.manifest
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.application
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.ImgurUploaderWindow.resources
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\en\ImgurAutoUploader.resources.dll
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurAutoUploader.ImgurUploaderWindow.en.resources
+C:\Users\yelyah\Desktop\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\en\ImgurAutoUploader.resources.dll
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\image uploader.csprojResolveAssemblyReference.cache
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\image uploader.csproj.GenerateResource.Cache
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.exe.config
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.exe
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.pdb
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\en\ImgurUploaderWin.resources.dll
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWIn.CopyClipboard.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWIn.ErrorForm.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWIn.UploadingWindow.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWIn.ImgurUploaderWindow.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.Properties.Resources.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWIn.UploadingWindow.en.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWIn.ImgurUploaderWindow.en.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\en\ImgurUploaderWin.resources.dll
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.exe
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.pdb

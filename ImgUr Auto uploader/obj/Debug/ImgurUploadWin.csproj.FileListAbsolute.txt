@@ -1,0 +1,34 @@
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.exe.config
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.exe
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.pdb
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.exe
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.pdb
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\bin\Debug\en\ImgurUploaderWin.resources.dll
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.CopyClipboard.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.ErrorForm.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.UploadingWindow.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.ImgurUploaderWindow.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.Properties.Resources.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.UploadingWindow.en.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.ImgurUploaderWindow.en.resources
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\ImgurUploadWin.csproj.GenerateResource.Cache
+C:\Users\yelyah\Documents\Visual Studio 2013\Projects\ImgurAutoUploader-master - copia\ImgUr Auto uploader\obj\Debug\en\ImgurUploaderWin.resources.dll
+C:\Users\yelyah\Documents\GitHub\imgine-win1\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.exe.config
+C:\Users\yelyah\Documents\GitHub\imgine-win1\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.exe
+C:\Users\yelyah\Documents\GitHub\imgine-win1\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.pdb
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.exe.config
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.exe
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.pdb
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.exe
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\bin\Debug\ImgurUploaderWin.pdb
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\bin\Debug\en\ImgurUploaderWin.resources.dll
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploadWin.csprojResolveAssemblyReference.cache
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.CopyClipboard.resources
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.ErrorForm.resources
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.UploadingWindow.resources
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.ImgurUploaderWindow.resources
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.Properties.Resources.resources
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.UploadingWindow.en.resources
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploaderWin.ImgurUploaderWindow.en.resources
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\ImgurUploadWin.csproj.GenerateResource.Cache
+C:\Users\yelyah\Documents\GitHub\imgine-win\ImgUr Auto uploader\obj\Debug\en\ImgurUploaderWin.resources.dll
