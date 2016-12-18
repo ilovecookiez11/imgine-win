@@ -7,6 +7,7 @@ Imgine for Windows - uploads images to imgur and optionally searches them with G
   * Drag and drop support
   * Command-line support
   * Context menu link in Windows Explorer
+  * (v1.1) Added thumbnails and a progress bar to the uploader window
 
 ## Requires .NET Framework 4.0, compatible with Windows XP SP2 and up
 Built with Visual Studio 2013
