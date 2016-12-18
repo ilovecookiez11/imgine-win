@@ -136,7 +136,7 @@
             this.MaximizeBox = false;
             this.Name = "ImgurUploaderWindow";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "imgine for Windows v1.0";
+            this.Text = "imgine for Windows v1.1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.DragEnter += new System.Windows.Forms.DragEventHandler(this.ImgurUploaderWindow_DragEnter);
             this.ResumeLayout(false);

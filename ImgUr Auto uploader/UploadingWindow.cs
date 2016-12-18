@@ -21,7 +21,9 @@ namespace ImgurUploaderWin
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            Image thumbnail = Image.FromFile(Main.filename);
+            pictureBox1.Image = thumbnail;
+            label1.Text = "Uploading " + System.IO.Path.GetFileName(Main.filename) + "...";
         }
 
       public delegate void CloseDelagate();
@@ -32,6 +34,11 @@ namespace ImgurUploaderWin
       }
 
       private void label1_Click(object sender, EventArgs e)
+      {
+
+      }
+
+      private void pictureBox1_Click(object sender, EventArgs e)
       {
 
       } 

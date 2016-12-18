@@ -11,7 +11,7 @@ namespace ImgurUploaderWin
 {
     public class ImgurUploader
     {
-        string ClientId = "8495230f821a241";
+        string ClientId = "8495230f821a241"; //try getting your own client ID from http://api.imgur.com
         public ImgurUploader(){}
         public string UploadImage(byte[] image)
         {
